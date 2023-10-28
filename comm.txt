@@ -1,0 +1,14 @@
+echo "# Mmitaligarh" >> README.md
+git init
+git add README.mdgit
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jaydeepraj1012/Mmitaligarh.git
+git push -u origin main
+echo "# collegewebsite" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jaydeepraj1012/collegewebsite.git
+git push -u origin main
